@@ -1,0 +1,18 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "package": "HO2GPTEST",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": true
+        }
+    ],
+    "namespace": "BGHANDSON",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "51.0",
+    "packageAliases": {
+        "HO2GPTEST": "0Ho4X000000fxSkSAI",
+        "HO2GPTEST@0.1.0-1": "04t4X000000Wy6fQAC"
+    }
+}
